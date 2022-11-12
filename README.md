@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development, Microservices, Data Sciences.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Learning.
-- 📫 How to reach me LinkedIn
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/swarnim-shukla-479737184/)
 
 <!---
 swarnim0308/swarnim0308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@ I enjoy working on challenging projects and solving complex problems. My experti
 
 ## Skills
 
-- Programming Languages: Java<img align="left" width="18px" src="https://cdn.simpleicons.org/java" />, Python<img align="left" width="18px" src="https://cdn.simpleicons.org/python" />
+- Programming Languages: Java, Python
 - Frameworks: Spring Boot, Hibernate
 - Cloud Technologies: AWS (Amazon Web Services)
 - Containerization: Docker
@@ -26,8 +26,8 @@ I enjoy working on challenging projects and solving complex problems. My experti
 ## Contact Me
 
 - Email: [swarnim0300@gmail.com](mailto:swarnim0300@gmail.com)
-- LinkedIn<img align="left" width="18px" src="https://cdn.simpleicons.org/linkedin"/>: [https://www.linkedin.com/in/swarnim-shukla-479737184/](https://www.linkedin.com/in/swarnim-shukla-479737184/)
-- Portfolio<img align="left" width="18px" src="https://cdn.simpleicons.org/gmail"/>: [https://swarnim0308.github.io](https://swarnim0308.github.io)
+- LinkedIn: [https://www.linkedin.com/in/swarnim-shukla-479737184/](https://www.linkedin.com/in/swarnim-shukla-479737184/)
+- Portfolio: [https://swarnim0308.github.io](https://swarnim0308.github.io)
 
 ## Resume
 

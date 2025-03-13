@@ -15,7 +15,7 @@ I enjoy working on challenging projects and solving complex problems. My experti
 - Continuous Integration/Deployment: Jenkins, GitLab CI/CD
 - Microservices Architecture
 - RESTful APIs
-- Database Systems: Oracle, Cassandra, H2
+- Database Systems: Oracle, MongoDB, H2
 - Version Control: Git
 
 ## Education

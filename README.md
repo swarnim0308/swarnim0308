@@ -31,7 +31,7 @@ I enjoy working on challenging projects and solving complex problems. My experti
 
 ## Resume
 
-For a detailed overview of my experience and qualifications, please refer to my [Resume](https://drive.google.com/file/d/1G-NslgppDjPEXPW_vam4-ZpkaMyFoUjs/view?usp=drive_link).
+For a detailed overview of my experience and qualifications, please refer to my [Resume](https://drive.google.com/file/d/1B-gdVDCzSHX_oOXTax2QiMHhUHUKV7bn/view?usp=drive_link).
 
 Thank you for visiting my profile. I'm open to collaboration and new opportunities. Feel free to reach out to me for any inquiries or discussions.
 

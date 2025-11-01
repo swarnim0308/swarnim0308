@@ -2,7 +2,7 @@
 
 ## About Me 👀
 
-I am a passionate and results-driven Software Engineer with 4 years of professional experience. I have a strong background in developing and maintaining enterprise-level applications using Spring Boot, Docker, AWS, Java, Python, Jenkins, and Microservices architecture in Banking Domain.
+I am a passionate and results-driven Software Engineer with 4.5 years of professional experience. I have a strong background in developing and maintaining enterprise-level applications using Spring Boot, Docker, AWS, Java, Python, Jenkins, and Microservices architecture in Banking Domain.
 
 I enjoy working on challenging projects and solving complex problems. My expertise lies in designing and developing scalable and robust software solutions that meet business requirements and deliver exceptional user experiences. I am always eager to learn and explore new technologies to enhance my skills and stay up-to-date with the latest industry trends.
 
@@ -31,7 +31,7 @@ I enjoy working on challenging projects and solving complex problems. My experti
 
 ## Resume
 
-For a detailed overview of my experience and qualifications, please refer to my [Resume](https://drive.google.com/file/d/1B-gdVDCzSHX_oOXTax2QiMHhUHUKV7bn/view?usp=drive_link).
+For a detailed overview of my experience and qualifications, please refer to my [Resume](https://drive.google.com/file/d/17e7omC42GmxfXyF2reUsEQQv84lzFhbu/view?usp=drive_link).
 
 Thank you for visiting my profile. I'm open to collaboration and new opportunities. Feel free to reach out to me for any inquiries or discussions.
 

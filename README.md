@@ -31,7 +31,7 @@ I enjoy working on challenging projects and solving complex problems. My experti
 
 ## Resume
 
-For a detailed overview of my experience and qualifications, please refer to my [Resume]([https://drive.google.com/file/d/17e7omC42GmxfXyF2reUsEQQv84lzFhbu/view?usp=drive_link](https://drive.google.com/file/d/15VSRa7Qo6FQUMgvS0Ykxxs-gGI2vLBAM/view?usp=drive_link)).
+For a detailed overview of my experience and qualifications, please refer to my [Resume](https://github.com/swarnim0308/swarnim0308.github.io/raw/master/public/assets/Swarnim_SDE_Resume.pdf).
 
 Thank you for visiting my profile. I'm open to collaboration and new opportunities. Feel free to reach out to me for any inquiries or discussions.
 

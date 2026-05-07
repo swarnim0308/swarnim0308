@@ -2,7 +2,7 @@
 
 ## About Me 👀
 
-I am a passionate and results-driven Software Engineer with 4.8+ years of professional experience in building enterprise-level applications and AI-driven solutions. I specialize in designing scalable architectures, implementing machine learning pipelines, and developing robust backend systems using modern technologies.
+I am a passionate and results-driven Software Engineer with 5+ years of professional experience in building enterprise-level applications and AI-driven solutions. I specialize in designing scalable architectures, implementing machine learning pipelines, and developing robust backend systems using modern technologies.
 
 I thrive on solving complex problems and delivering innovative solutions that combine software engineering excellence with artificial intelligence capabilities. My expertise spans full-stack development, cloud-native applications, and AI/ML integration.
 

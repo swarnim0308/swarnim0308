@@ -14,7 +14,7 @@ I thrive on solving complex problems and delivering innovative solutions that co
 
 ### Core Frameworks & Libraries
 - **Backend**: Spring Boot, Spring Cloud, Hibernate, JPA
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, LangChain, OpenAI APIs
+- **AI/ML**: LangChain, OpenAI APIs
 - **API Development**: RESTful APIs, GraphQL
 
 ### Cloud & Infrastructure
@@ -25,8 +25,6 @@ I thrive on solving complex problems and delivering innovative solutions that co
 ### Specialized Areas
 - Microservices Architecture
 - Generative AI & LLM Integration
-- Machine Learning Pipelines
-- Vector Databases & RAG (Retrieval-Augmented Generation)
 - Data Engineering & ETL
 - RESTful & Asynchronous APIs
 
@@ -34,7 +32,6 @@ I thrive on solving complex problems and delivering innovative solutions that co
 - Relational: Oracle, PostgreSQL, MySQL
 - NoSQL: MongoDB
 - In-Memory: Redis
-- Vector: Pinecone, Weaviate
 
 ### DevOps & Tools
 - Version Control: Git, GitHub
@@ -47,7 +44,7 @@ I thrive on solving complex problems and delivering innovative solutions that co
 
 ### Certifications
 - AWS Certified Cloud Practitioner (CCP)
-- AWS Solutions Architect Associate
+- AWS Solutions Architect Associate (Udemy)
 - Microservices Architecture
 - Spring Boot Professional
 - Machine Learning Fundamentals
@@ -57,7 +54,6 @@ I thrive on solving complex problems and delivering innovative solutions that co
 ## Projects & Experience
 
 ### Highlights
-- Developed AI-powered applications leveraging LLMs and generative AI
 - Designed and implemented microservices architectures handling millions of transactions
 - Built ML pipelines for data analysis and predictive modeling
 - Deployed scalable cloud solutions on AWS infrastructure
